@@ -4,9 +4,9 @@ let config = {
         pixelArt: true
     },
     width: 320,
-    height: 640,
+    height: 240,
     physics: {
-        defualt: 'arcade',
+        defualt: "arcade",
         arcade: {
             debug: true
         }
